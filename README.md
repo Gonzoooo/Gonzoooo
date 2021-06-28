@@ -1,7 +1,9 @@
-- 👋 Hi, my name is Olga 
-- 👀 I’m interested in Web-programming
-- 🌱 I’m currently learning in Yandex.Practicum 
-- 💞️ I’d like to work on one commun projct 
-- 📫 U can reach my by e-mail: g.o.n.z.o.m.e@ya.ru 
+- ## 👋 Привет! Меня зовут Ольга 
+- #### 🎓В настоящее время я учусь в [Яндекс.Практикуме](https://praktikum.yandex.ru) по профессии Веб-разработчик 
+- #### 📚Мне нравится узнавать и создавать что-то новое! 
+- #### 💻Хочу научиться писать удобные и красивые сайты 
+- #### ⭐И стать частью IT-команды
+- #### 👀В процессе обучения был опыт работы с: HTML, CSS, JavaScript, Git, БЭМ (Nested), Figma, Wabpack, NPM, Babel, , grid, , API.
 
-[<img src="https://github.com/" alt="Ссылка на мой гитхаб">](https://github.com/Gonzoooo/Gonzoooo) 
+- Со мной можно связаться по e-mail: g.o.n.z.o.m.e@ya.ru или в [Facebook](https://www.facebook.com/profile.php?id=100001345577349) 
+
