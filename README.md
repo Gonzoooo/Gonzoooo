@@ -5,6 +5,6 @@
 - #### ⭐И стать частью IT-команды
 - #### 👀В процессе обучения был опыт работы с: HTML, CSS, JavaScript, Git, БЭМ (Nested), Figma, Wabpack, NPM, Babel, , grid, , API.
 
-#### Со мной можно связаться по e-mail: g.o.n.z.o.m.e@ya.ru , в [Facebook](https://www.facebook.com/profile.php?id=100001345577349) или по телефону: +7 (916) 944-17-97
+#### Со мной можно связаться по e-mail: g.o.n.z.o.m.e@ya.ru 
 #### Буду рада сотрудничеству! 
 
