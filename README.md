@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello, I'm Olga! </h2>
 
-### 📚 I'm a junior JS developer
+### 📚 I'm a junior Frontend-developer
 ### 🎓 Graduated course from [Yandex](https://praktikum.yandex.ru) as a Web-developer
 ### 💻 Keep learning
 <br>
